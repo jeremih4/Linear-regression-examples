@@ -1,13 +1,13 @@
 # Linear-regression-examples
 Simple implementations of linear regression in python
 
-### data collection
+## data collection
 
 The salary dataset was taken from:  https://towardsdatascience.com/machine-learning-simple-linear-regression-with-python-f04ecfdadc13. It consists of years of experience and associated salary for a group of employees
 
 The Auto dataset can be found on: https://archive.ics.uci.edu/ml/datasets/auto+mpg
 
-### notebook contents
+## notebook contents
 
 #### linear regression examples
 
